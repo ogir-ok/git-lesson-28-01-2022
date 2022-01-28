@@ -2,4 +2,4 @@ import os
 import subprocess
 
 
-subprocess.call("ls -al")
+subprocess.call("ls -a")
